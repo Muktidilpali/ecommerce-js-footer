@@ -13,13 +13,13 @@
   "keywords": [
     "footer"
   ],
-  "author": "Mukti <yadmamukti28@yahoo.com> (https://www.npmjs.com/?track=newUserCreated)",
+  "author": "muktidilpali",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Muktidilpali/ecommerce-js-footer/issues"
   },
   "homepage": "https://github.com/Muktidilpali/ecommerce-js-footer#readme",
   "dependencies": {
-    "moment": "^2.29.1"
+    "moment": "2.20.1"
   }
 }

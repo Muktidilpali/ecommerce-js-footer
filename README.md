@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Ecommerce JS Footer
 
 >This should be used in the following manner
@@ -13,3 +14,5 @@ Add to a javascript project with the following code:
 import { footer } from 'ecommerce-js-footer';
 footer('Some Name';
 ````
+=======
+# ecommerce-js-footer
